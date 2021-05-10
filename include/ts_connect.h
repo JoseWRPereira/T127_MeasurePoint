@@ -7,8 +7,6 @@
 #define WIFI_PASSWORD   "12345678" 
 // #define WIFI_SSID       "IoT_Hub"
 // #define WIFI_PASSWORD   "SENAI127iot"
-// #define WIFI_SSID       "SENAI_CORP"
-// #define WIFI_PASSWORD   "ac1ce2ss7"
 
 
 // ThingSpeak (TS) information
